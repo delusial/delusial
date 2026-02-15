@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-  I'm Delusial a Full-Stack-Developer based in Germany (Softwareentwickler).
+I'm Delusial a Full-Stack-Developer based in Germany (Softwareentwickler).
 
-  My focus is to code Websites, which stand out for their modern style and their modern functions.
+My focus is to code Websites, which stand out for their modern style and their modern functions.
 
-  I'm currently working on a Website / App, which helps users find their gaming teammates faster.
+I'm currently working on a Website / App, which helps users find their gaming teammates faster.
 
 <!--
 **delusial/delusial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
