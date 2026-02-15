@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑 I’m Delusial, a Full-Stack Developer based in Germany.
+I’m Delusial, a Full-Stack Developer based in Germany.
 
 📄 I specialize in building modern, high-performance websites with clean design and intuitive functionality.
 
