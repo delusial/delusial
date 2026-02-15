@@ -6,7 +6,7 @@ I’m Delusial, a Full-Stack Developer based in Germany.
 
 🎮 Currently, I’m working on a web application that helps gamers find teammates faster and more efficiently.
 
-🧑‍💻 My tech stack includes HTML, CSS (Tailwind CSS), JavaScript, TypeScript, React, and Go.
+🧑‍💻 My tech stack includes HTML, CSS (Tailwind CSS), JavaScript, TypeScript, React, Node.js, Vite and Go.
 
 <!--
 **delusial/delusial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
